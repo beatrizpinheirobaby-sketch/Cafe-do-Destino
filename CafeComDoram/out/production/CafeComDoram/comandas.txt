@@ -1,7 +1,0 @@
-CLIENTE;Beatriz Pinheiro
-Café Expresso;7.5
-Mocha;15.5
-Café Expresso;7.5
-TOTAL;30.5
-PAGAMENTO;Débito
------
